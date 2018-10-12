@@ -1,0 +1,23 @@
+li{
+    list-style:none;
+    display: inline;
+    margin: 10px;
+}
+  a{
+      text-decoration: none;
+  }
+   body{
+       background-color: blanchedalmond;
+   }
+   h1{
+       background-color: lightcoral;
+       color: cornsilk;
+   }
+   tr:nth-child(odd) {
+        border: 5px;
+        background-color: brown
+   }
+    tr:nth-child(even) {
+         border: 5px;
+background-color: darkolivegreen;
+    }
